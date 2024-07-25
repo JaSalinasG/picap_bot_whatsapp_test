@@ -1,0 +1,7 @@
+[handleMsg]:  {
+  type: 'text',
+  from: '573012670306',
+  to: '15556131999',
+  body: 'Wenas',
+  pushName: 'Harold Mideros'
+}
